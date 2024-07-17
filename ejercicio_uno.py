@@ -4,3 +4,11 @@ ejem:
 entrada: [4,7,10,4,1,0]
 salida : {menor:0,mayor:10}
 """
+def numeros(4,7,10,4,1,0):
+    minimo=min(list)
+    maximo=max(list)
+    return minimo,maximo
+    resultado=obtener_numeros
+    print(resultado)
+
+
